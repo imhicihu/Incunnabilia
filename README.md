@@ -1,5 +1,6 @@
-# README #[![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
+[![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
 
+# README #
 This repository shows the process of digitization of an _incunabulae_.
 
 ### What is this repository for? ###
