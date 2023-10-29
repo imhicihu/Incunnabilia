@@ -1,10 +1,11 @@
-* IV Encuentro Nacional de Catalogadores : tendencias en la organizaciÛn y tratamiento de la informaciÛn / compilado por Elsa Barber con la colaboraciÛn de Carolina Gregui y Silvia Pisano. 978-987-728-003-6
-* TaxonomÌa : de formatos de pantalla en la era digital / Mariela Yeregui (comp.). ISBN 978-987-25494-2-8 
-* °Se acabÛ el papel! : aportes para la preservaciÛn y la conservaciÛn preventiva del patrimonio cultural en papel. ISBN 978-987-26275-0-8
-* Prensa de la emancipaciÛn : proyecto de digitalizaciÛn de la prensa periÛdica del siglo XIX / XXI Asamblea General de ABINIA: 11 al 14 de septiembre de 2010, Buenos Aires, Argentina. 
-* Cat·logo y digitalizaciÛn de los manuscritos de Juan Carlos Onetto / Isabel ¡lvarez y Graciela Gargiulo. ISBN: 978-9974-550-76-6
-* DigitalizaciÛn de im·genes en la pericia caligr·fica. ISBN: 987-517-088-7
-* El libro impreso y el libro digital : estudio sobre los modos de producciÛn editorial en el cambio de milenio / Alessandro Cavaliere. ISBN: 84-7908-821-4
-* Tratamiento y difusiÛn digital del libro antiguo : directrices metodolÛgicas y guÌa de recursos / JosÈ Luis Herrera Morillas (con la colaboracion de Francisco MatÌas L·zaro). ISBN: 84-9704-029-5
-* ~~CÛmo seleccionar colecciones de investigaciÛn para la digitalizaciÛn. ISBN: 956-244-110-5~~
-* ~~Microfilm o preservaciÛn digital en bibliotecas y archivos?. Boro, Fernando J.~~
+### Bibliography
+* _IV Encuentro Nacional de Catalogadores: tendencias en la organizaci√≥n y tratamiento de la informaci√≥n_ / compilado por Elsa Barber con la colaboraci√≥n de Carolina Gregui y Silvia Pisano. 978-987-728-003-6
+* _Taxonom√≠a: de formatos de pantalla en la era digital_ / Mariela Yeregui (comp.). ISBN 978-987-25494-2-8 
+* _¬°Se acab√≥ el papel!: aportes para la preservaci√≥n y la conservaci√≥n preventiva del patrimonio cultural en papel_. ISBN 978-987-26275-0-8
+* _Prensa de la emancipaci√≥n: proyecto de digitalizaci√≥n de la prensa peri√≥dica del siglo XIX / XXI_ Asamblea General de ABINIA: 11 al 14 de septiembre de 2010, Buenos Aires, Argentina. 
+* _Cat√°logo y digitalizaci√≥n de los manuscritos de Juan Carlos Onetto_ / Isabel √Ålvarez y Graciela Gargiulo. ISBN: 978-9974-550-76-6
+* _Digitalizaci√≥n de im√°genes en la pericia caligr√°fica_. ISBN: 987-517-088-7
+* _El libro impreso y el libro digital: estudio sobre los modos de producci√≥n editorial en el cambio de milenio_ / Alessandro Cavaliere. ISBN: 84-7908-821-4
+* _Tratamiento y difusi√≥n digital del libro antiguo: directrices metodol√≥gicas y gu√≠a de recursos_ / Jos√© Luis Herrera Morillas (con la colaboracion de Francisco Mat√≠as L√°zaro). ISBN: 84-9704-029-5
+* ~~_C√≥mo seleccionar colecciones de investigaci√≥n para la digitalizaci√≥n_. ISBN: 956-244-110-5~~
+* ~~_Microfilm o preservaci√≥n digital en bibliotecas y archivos?_. Boro, Fernando J.~~
