@@ -20,7 +20,6 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 * Dependencies
     * The same nature of the process, needs lots of steps to meet consecutively
 
-
 ### Issues ###
 
 * Check the _original_ issues [here](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues)
@@ -29,6 +28,10 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 
 * Repo owner or admin
      * Contact `imhicihu` at `gmail` dot `com`
+
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/commits/) section for the current status
 
 ### Legal ###
 
