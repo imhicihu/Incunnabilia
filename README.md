@@ -8,7 +8,7 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 
 * _Process-workflow-description_ turning a book and becoming a _digital asset_.
 <BR></BR>
-![issues-open](images/library.jpg)
+![issues-open](images/ezgif-2-4b2831b23367.gif)
 
 ### How do I get set up? ###
 
