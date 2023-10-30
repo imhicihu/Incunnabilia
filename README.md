@@ -13,12 +13,12 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 ### How do I get set up? ###
 
 * Summary of set up
-    * Implies [hardware and software](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/1/hardware-camera-lens): camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between hardware & software), etc.
-    * Gathering of data of possible-scenarios/environment or even better: leading cases (through forums, digital libraries, bibliography, etc.). Hence, a private repository of bibliography will result an objective.
+    * Implies [hardware and software](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/1/hardware-camera-lens): camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between [hardware](Canon_wireless_shooter.md) & [software](Software.md)), etc.
+    * Gathering of [data](Links.md) of possible-scenarios/environment or even better: leading cases (through forums, digital libraries, [bibliography](Bibliography.md), etc.). Hence, a ~~private~~ repository of [bibliography](Bibliography.md) will result an objective.
 * Configuration
-    * Up to now, in the process of gathering data to meet international norms. It a _mixture_ between hardware & software
+    * Up to now, in the process of gathering data to meet [international norms](Dublin_core.md). It a _mixture_ between [hardware](Canon_wireless_shooter.md) & [software](Software.md)
 * Dependencies
-    * The same nature of the process, needs lots of steps to meet consecutively
+    * The same nature of the process, [needs lots of steps](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/downloads/Digitization%20best%20practices.pdf) to meet consecutively
 
 ### Issues ###
 
