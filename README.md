@@ -13,7 +13,7 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 ### How do I get set up? ###
 
 * Summary of set up
-    * Implies [hardware and software](https://bitbucket.org/imhicihu/incunnabilia-early-book-digital/issues/1/hardware-camera-lens): camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between hardware & software), etc.
+    * Implies [hardware and software](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/1/hardware-camera-lens): camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between hardware & software), etc.
     * Gathering of data of possible-scenarios/environment or even better: leading cases (through forums, digital libraries, bibliography, etc.). Hence, a private repository of bibliography will result an objective.
 * Configuration
     * Up to now, in the process of gathering data to meet international norms. It a _mixture_ between hardware & software
