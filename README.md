@@ -20,18 +20,20 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 * Dependencies
     * The same nature of the process, needs lots of steps to meet consecutively
 
-### Contribution guidelines ###
 
-* Writing tests
-    * No data to share (up to now)
-* Code review
-    * No data to share (up to now)
-* Other guidelines
-     * Check the original _[issues](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues)_
+### Issues ###
+
+* Check the _original_ issues [here](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues)
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     * Contact `imhicihu at gmail dot com`
-* Other community or team contact
-     * This is a closed group (up to now).
+     * Contact `imhicihu` at `gmail` dot `com`
+
+### Legal ###
+
+* All trademarks are the property of their respective owners.
+
+### License ###
+
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
