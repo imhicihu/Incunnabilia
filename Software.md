@@ -32,28 +32,32 @@
 <BR></BR>
 ![archived](images/notesA1_comparison.png)
 
-NameMangler: rename batch files in a second!
+* [FileRenamer](http://www.joejoesoft.com/vcms/108/): rename batch files in a second!
 
-pagedewarping
+* [pagedewarping](https://github.com/mzucker/page_dewarp)
 
-Docr - PDF scanner with document image dewarping (exclusively for the ipad)
+* [Docr](https://itunes.apple.com/app/id1112445201?mt=8) 
+	- PDF scanner with document image dewarping (exclusively for the ipad)
+<BR></BR>
+![archived](images/1608532246-screen696x696.jpg)
 
+* [WinDjView](https://sourceforge.net/projects/windjview/files/): 
+	- DJVu viewer for Windows platform
 
+* [MacDjView](https://sourceforge.net/projects/windjview/files/): 
+	- DJVu viewer for mac environment
 
-checksum / md5: validator & securitization of digital assets
+* [Archivematica](https://www.archivematica.org/): a web and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content
 
-WinDjView: DJVu viewer for Windows platform
+* [Omeka](https://omeka.org/): 
+	- Web-publishing with Dublin Core metadata add-on. Plus plugins in advance with multiple capabilities.
 
-MacDjView: DJVu viewer for mac environment
+* [DIY Book Scanner Image Postprocessor](https://sourceforge.net/projects/bookscanpost/?source=directory): 
+	- image postprocessor multi-platform
 
-Archivematica: a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content
+* [Digital Preservation Software Platform](http://dpsp.sourceforge.net/)
+<BR></BR>
+![archived](images/573568980-DPSP_overview.png)
 
-Omeka: Web-publishing with Dublin Core metadata add-on. Plus plugins in advance with multiple capabilities.
-
-DIY Book Scanner Image Postprocessor: image postprocessor multi-platform
-
-Digital Preservation Software Platform
-
-
-
-imageJ: image processing and analysis.
+* [imageJ](https://imagej.nih.gov/ij/): image processing and analysis.
+* checksum / md5: validator & securitization of digital assets
