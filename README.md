@@ -27,7 +27,7 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 * Code review
     * No data to share (up to now)
 * Other guidelines
-     * Check the _[issues](https://bitbucket.org/imhicihu/incunnabilia-early-book-digital/issues)_ (_open_ and _closed_ too)
+     * Check the original _[issues](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues)_
 
 ### Who do I talk to? ###
 
