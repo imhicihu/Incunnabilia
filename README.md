@@ -1,12 +1,13 @@
-[![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # README #
-This repository shows the process of digitization of an _incunabulae_.
+This repository shows the process of digitization of an [_incunabulae_](https://en.wikipedia.org/wiki/Incunable).
 
 ### What is this repository for? ###
 
-* _Process-workflow-description_ turning a book and becoming a _digital asset_. 
-* Version 1.2
+* _Process-workflow-description_ turning a book and becoming a _digital asset_.
 
 ### How do I get set up? ###
 
@@ -17,10 +18,6 @@ This repository shows the process of digitization of an _incunabulae_.
     * Up to now, in the process of gathering data to meet international norms. It a _mixture_ between hardware & software
 * Dependencies
     * The same nature of the process, needs lots of steps to meet consecutively
-* How to run tests
-    * No data to share (up to now)
-* Deployment instructions
-    * No data to share (up to now)
 
 ### Contribution guidelines ###
 
