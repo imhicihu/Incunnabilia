@@ -1,6 +1,5 @@
-![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
-![issues-open](images/2944199103-issues_open.png)
 
 # README #
 This repository shows the process of digitization of an [_incunabulae_](https://en.wikipedia.org/wiki/Incunable).
@@ -8,6 +7,8 @@ This repository shows the process of digitization of an [_incunabulae_](https://
 ### What is this repository for? ###
 
 * _Process-workflow-description_ turning a book and becoming a _digital asset_.
+<BR></BR>
+![issues-open](images/library.jpg)
 
 ### How do I get set up? ###
 
