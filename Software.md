@@ -26,7 +26,7 @@
 
 * [Book Scan Wizard](https://sourceforge.net/projects/bookscanwizard/):
 
-	- A utility to help with Book scanning using cameras as a scanner. It will automate things such as cropping, rotating, fixing keystoning, fixing the DPI, and outputing it to tiff files that can be changed into PDF's or ebooks.
+	- A utility to help with Book scanning using cameras as a scanner. It will automate things such as cropping, rotating, fixing keystoning, fixing the DPI, and outputting it to tiff files that can be changed into PDF's or ebooks.
 
 * [noteshrink](https://mzucker.github.io/2016/09/20/noteshrink.html)
 <BR></BR>
@@ -53,7 +53,7 @@
 	- Web-publishing with Dublin Core metadata add-on. Plus plugins in advance with multiple capabilities.
 
 * [DIY Book Scanner Image Postprocessor](https://sourceforge.net/projects/bookscanpost/?source=directory): 
-	- image postprocessor multi-platform
+	- image post-processor multi-platform
 
 * [Digital Preservation Software Platform](http://dpsp.sourceforge.net/)
 <BR></BR>
