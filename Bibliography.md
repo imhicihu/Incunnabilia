@@ -4,4 +4,4 @@
 * _Higiene y terapéutica del libro_. Almeda Mejía, Juan. México, Fondo de Cultura Económica, 1956.     
 
 ### Links
-* Please, verify the _original_ [bibliography](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/edit/4) section.
+* ~~Please, verify the _original_ [bibliography](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/edit/4) section~~.
