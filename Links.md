@@ -7,7 +7,7 @@
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2
 * [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
-* [Information Standards Quaterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
+* [Information Standards Quarterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
      * _On Technical Reports:_ 
 	 * [NISO TR01-1995, Environmental Guidelines for the Storage of Paper Records:](http://www.niso.org/publications/tr/tr01.pdf) Storage parameters addressed include temperature, relative humidity, exposure to light, gaseous contaminants, and particulates. Values and procedures for the various parameters are recommended.
 	 * _On Recommended Practices:_
@@ -19,14 +19,14 @@
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * [Archivo General de Córdoba: Archivo Histórico](http://prensa.cba.gov.ar/cultura-y-espectaculos/%E2%80%8Barchivo-historico-un-papel-saludable/)
-* [Primary Trustworthy Digital Repository Authorisation Body Ltd:](http://www.iso16363.org/) some [bibliography](http://www.iso16363.org/courses/resources/further-reading/), some [tools and services](http://www.iso16363.org/courses/resources/tools-and-services/), some Github / Google Code repos: [Droid](https://sourceforge.net/projects/droid/) now _deprecated_: actual [Github repo](https://github.com/digital-preservation/droid), 
+* [Primary Trustworthy Digital Repository Authorisation Body Ltd:](http://www.iso16363.org/) some [bibliography](http://www.iso16363.org/courses/resources/further-reading/), some [tools and services](http://www.iso16363.org/courses/resources/tools-and-services/), some Github / Google Code repos: [Droid](https://sourceforge.net/projects/droid/) now _deprecated_: actual [Github repo](https://github.com/digital-preservation/droid)
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Centro di Eccellenza Italiano sulla Conservazione Digitale - Conservazione Digitale](http://www.conservazionedigitale.org/wp/normativa-italiana/conservazione-digitale/): guidelines in pdf format. All in italian language.
 * British Library: some [guidelines](http://www.bl.uk/aboutus/stratpolprog/collectioncare/conservetreat/contracts.html)
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
-* [International Internet Preservation Consortion](http://netpreserve.org/)
+* [International Internet Preservation Consortium](http://netpreserve.org/)
 * [International Federation of Library Associations and Institutions (IFLA) guidelines](https://www.ifla.org/node/8750)
 * [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/) plus [Guidelines](http://www.digitizationguidelines.gov/guidelines/)
 * [Library of Congress digital preservation](http://www.digitalpreservation.gov/)
@@ -39,9 +39,9 @@
 * http://1611199.blogspot.com.ar/
 * query on [Emerald Insight](http://www.emeraldinsight.com/action/doSearch?AllField=digitization&content=articlesChapters) on digitization
 * [Adam Lowe clona los claroscuros de Caravaggio](https://elpais.com/diario/2009/10/08/ciberpais/1254968672_850215.html)
-* [Nuevos contenedores para la conservacion de piezas artisticas incunables](http://argentinainvestiga.edu.ar/infouniversidades/2.6/listado/noticia.php?titulo=nuevos_contenedores_para_la_conservacion_de_piezas_artisticas_incunables&id=1071)
-* http://www.documentalistas.org/    digital editions: https://issuu.com/fundacioncd
-* http://205.147.97.190/nnamami/  --- ) National Mission for Manuscripts of India (there is a manual that can be found downloaded here: http://205.147.97.190/nnamami/sites/default/files/digitization.pdf)
+* [Nuevos contenedores para la conservación de piezas artísticas incunables](http://argentinainvestiga.edu.ar/infouniversidades/2.6/listado/noticia.php?titulo=nuevos_contenedores_para_la_conservacion_de_piezas_artisticas_incunables&id=1071)
+* http://www.documentalistas.org/ digital editions: https://issuu.com/fundacioncd
+* http://205.147.97.190/nnamami/  --- ) National Mission for Manuscripts of India (there is a manual that can be found downloaded [here](http://205.147.97.190/nnamami/sites/default/files/digitization.pdf))
 * [Cultural Informatics Lab](http://ignca.nic.in/mmd_body.htm). Offers this guidelines: http://ignca.nic.in/PDF_data/digitization_standards.pdf
 * [National Manuscripts Conservation Trust](http://www.nmct.co.uk/)
 * https://en.wikipedia.org/wiki/Digital_preservation
@@ -51,6 +51,6 @@
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
 * http://www.ukoln.ac.uk/preservation/presentations/ (info offered seems to be outdated)
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
-* [Final report of the taskforce on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
+* [Final report of the task-force on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
 * [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
-* [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some github repos
+* [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some GitHub repos
