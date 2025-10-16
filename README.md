@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="images/gzh9AVvXTy6-yUrwQME_zw.webp?raw=true" alt="Logotipo de Incunnabilia"/>
+</p>
+
 ![archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
+
+---
 
 # README #
 This repository shows the process of digitization of an [_incunabulae_](https://en.wikipedia.org/wiki/Incunable).
